@@ -1,3 +1,3 @@
 # lab
 
-This repository stores templates and workflow instructions.
+The (wiki)[https://github.com/huntallcott/lab/wiki] has lab procedures.
